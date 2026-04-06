@@ -1,0 +1,8 @@
+django
+djangorestframework
+transformers
+torch
+pillow
+requests
+torchvision
+decouple
